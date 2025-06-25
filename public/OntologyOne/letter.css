@@ -143,9 +143,14 @@
 
 /* Signature Styling */
 .signature {
-  font-family: 'Zeyada', cursive;
+  font-family: Zeyada, cursive;
   font-size: clamp(1.6rem, 4vw, 2.6rem);
-  display: inline-block;
+}
+
+@media (max-width: 480px) {
+  .signature {
+    font-size: 3rem; /* override clamp() for better legibility on small screens */
+  }
 }
 
 /* Postscript (PS & PPS) styling */
