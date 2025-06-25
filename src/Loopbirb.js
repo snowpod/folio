@@ -48,8 +48,8 @@ export default function Portfolio() {
           <div className="space-y-10">
             <div>
               <div className="flex flex-col mb-6 space-y-1">
-                <img src="./birby_grey.png" alt="Birby" className="w-12 h-12 block dark:hidden" />
-                <img src="./birby_yerg.png" alt="Birby" className="w-12 h-12 hidden dark:block" />
+                <img src="/assets/birby_grey.svg" alt="Birby" className="w-12 h-12 block dark:hidden" />
+                <img src="/assets/birby_yerg.svg" alt="Birby" className="w-12 h-12 hidden dark:block" />
                 <div className="text-sm tracking-widest uppercase text-gray-500 dark:text-gray-400 font-mono">
                   <span className="font-semibold text-gray-800 dark:text-gray-100">Loopbirb:</span> Loops of Ideas. Flights of Code.
                 </div>
@@ -71,7 +71,12 @@ export default function Portfolio() {
                 </li>
 
                 <li>
-                  <a href="https://ontologyone-frontend.onrender.com" target="_blank" rel="noopener noreferrer" className="underline text-blue-700 dark:text-blue-400 hover:text-blue-900 dark:hover:text-blue-300">
+                  <a
+                    href={window.APP_LINKS?.app || "#"}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="underline text-blue-700 dark:text-blue-400 hover:text-blue-900 dark:hover:text-blue-300"
+                  >
                     Launch the app
                   </a>
                   <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">

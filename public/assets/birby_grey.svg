@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="birby_grey.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="..\..\folio\public\birby.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.15625"
+     inkscape:cx="28.668942"
+     inkscape:cy="30.361775"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <!-- Black rounded square -->
+  <rect
+     x="-0.075085327"
+     y="0.034129694"
+     width="64.040955"
+     height="63.93174"
+     rx="10.673492"
+     ry="10.655291"
+     fill="#000000"
+     id="rect1"
+     style="stroke-width:1.06643;fill:#1a1a1a"
+     inkscape:export-filename="birby_black_square.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <text
+     x="6.9270144"
+     y="41.857655"
+     text-anchor="middle"
+     font-size="30px"
+     font-family="monospace"
+     font-weight="bold"
+     fill="#000000"
+     id="text1"
+     style="font-size:40px;fill:#ffffff;-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">(</text>
+  <text
+     x="-20.927015"
+     y="41.857655"
+     text-anchor="middle"
+     font-size="30px"
+     font-family="monospace"
+     font-weight="bold"
+     fill="#000000"
+     transform="scale(-1,1)"
+     id="text2"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff">3</text>
+  <text
+     x="34.927013"
+     y="35.857655"
+     text-anchor="middle"
+     font-size="30px"
+     font-family="monospace"
+     font-weight="bold"
+     fill="#000000"
+     id="text3"
+     style="font-size:24px;fill:#ffffff;-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ffffff"
+       id="tspan11">-</tspan></text>
+  <text
+     x="46.927013"
+     y="41.857655"
+     text-anchor="middle"
+     font-size="30px"
+     font-family="monospace"
+     font-weight="bold"
+     fill="#000000"
+     id="text4"
+     style="font-size:40px;fill:#ffffff;-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">)</text>
+  <text
+     x="54.271725"
+     y="39.857655"
+     text-anchor="middle"
+     font-size="30px"
+     font-family="monospace"
+     font-weight="bold"
+     fill="#000000"
+     id="text5"
+     style="font-size:26.66666667px;fill:#ffffff;-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">&gt;</text>
+  <!-- Left bracket ( -->
+  <!-- Horizontally flipped "3" as wing -->
+  <!-- Dash - -->
+  <!-- Right bracket ) -->
+  <!-- Beak > -->
+</svg>
